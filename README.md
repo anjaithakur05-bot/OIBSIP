@@ -39,6 +39,24 @@ A Java based ATM Interface project.
 
 
 ---
+## Task 4 - Online Examination
+
+Online Examination System developed using Java, HTML and CSS.
+
+### Features
+
+- User Login
+- MCQ Based Exam
+- Timer Based Examination
+- Automatic Submission
+- Score Calculation
+- Logout System
+
+### Technologies Used
+
+- Java
+- HTML
+- CSS
 
 ## Author
 
