@@ -1,39 +1,49 @@
 # OIBSIP Java Development Internship Projects
 
-## Task 1 - ATM Interface
+This repository contains projects completed during Oasis Infobyte Internship.
 
-ATM Interface developed using Java, MySQL, HTML and CSS.
+## Task 2 - Number Guessing Game
+
+A Java based Number Guessing Game project.
+
+### Features
+- Random Number Generation
+- Multiple Attempts
+- Higher / Lower Hints
+- Score Calculation
+
+### Technologies Used
+- Java
+- HTML
+- CSS
+
+
+---
+
+## Task 3 - ATM Interface
+
+A Java based ATM Interface project.
 
 ### Features
 - Login using Account Number and PIN
 - Check Balance
 - Deposit Money
 - Withdraw Money
+- Transaction History
 
----
-
-## Task 2 - Number Guessing Game
-
-Number Guessing Game developed using Java, HTML and CSS.
-
-### Features
-- Random Number Generation
-- Multiple Rounds
-- Score Calculation
-- Higher/Lower Hints
-
----
-
-## Technologies Used
-
+### Technologies Used
 - Java
 - MySQL
 - HTML
 - CSS
-- Git & GitHub
+
 
 ---
 
 ## Author
 
 Anjali Thakur
+
+## Internship
+
+Oasis Infobyte (OIBSIP)
